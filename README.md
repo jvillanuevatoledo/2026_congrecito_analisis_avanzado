@@ -1,7 +1,9 @@
 **TALLER DE ANÁLISIS AVANZADO DE CITOMETRÍA DE FLUJO**
 
-Repositorio oficial del taller de análisis avanzado de citometría de flujo utilizando lenguajes y herramientas de programación en R.
-El participante debe tener el motor de R y el editor en su equipo.
+Bienvenidoa al repositorio oficial del taller de análisis avanzado de citometría de flujo utilizando lenguajes y herramientas de programación en R.
+En este taller, aprenderemos a utilizar el lenguaje de programación de R para analizar y visualizar datos de citometría de flujo.
+
+Para participar en este taller, es importante que tengas instalado en tu equipo tanto R como Positron.
 
 1. **INSTALACIÓN DE R Y POSITRON**
 
