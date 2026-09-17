@@ -32,7 +32,7 @@ xcode-select --install
 Seguir las instrucciones emergentes en pantalla para instalar las herramientas de línea de comandos de Xcode.
 
 3. **EN POSITRON ABRIR LA CARPETA**
-  - Descomprimir el archivo `.zip` recibido (o clonar este repositorio de GitHub).
+  - Descomprimir el archivo `.zip` recibido.
   - Abrir Positron.
   - Ir a File > Open Folder... (o Ctrl + K, Ctrl + O en Windows / Cmd + O en macOS) y seleccionar la carpeta del proyecto.
 Verificación: Al abrir la carpeta, Positron leerá automáticamente el archivo `.Rprofile` y en la consola de R aparecerá un mensaje indicando que el entorno renv se ha activado.
